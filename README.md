@@ -10,13 +10,51 @@
 
 بازی فقط ویدیوهای کوتاه، داستان، تصمیمات بازیکن، و بعضی اتفاقات کوتاه دیگر است، با یک منو و تنظیمات ساده بازی...
 
+
 ---
 
 ## 🤝🏻 اعضای تیم توسعه‌دهندگان
-- [**حسین پ.**](https://GitHub.com/HP2000C) | مدیر تیم، بخش تبلیغات و توسعه‌دهنده قسمت HTML
-- [**دانیال کمالی‌پور**](https://GitHub.com/DanialKamalipour) | نویسنده داستان
-- [**توربو**](https://GitHub.com/Turbo-Dev-C) | توسعه‌دهنده قسمت ++C و اتصال به فایل HTML
-- **محمدامین** | توسعه‌دهنده قسمت HTML
+
+<div align="right">
+
+<table dir="rtl">
+  <thead>
+    <tr>
+      <th>ردیف</th>
+      <th>نام/نام مستعار</th>
+      <th>سمت/وظیفه</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td><a href="https://GitHub.com/HP2000C"><strong>حسین پ.</strong></a></td>
+      <td>مدیر تیم، بخش تبلیغات و توسعه‌دهنده قسمت HTML</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td><a href="https://GitHub.com/DanialKamalipour"><strong>دانیال کمالی‌پور</strong></a></td>
+      <td>داستان‌نویس</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td><a href="https://GitHub.com/Turbo-Dev-C"><strong>توربو</strong></a></td>
+      <td>توسعه‌دهنده قسمت ++C و اتصال به فایل</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td><a href="https://GitHub.com/immohamadamin2026-sudo"><strong>محمدامین</strong></a></td>
+      <td>HTML توسعه‌دهنده قسمت</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td><a href="https://GitHub.com/RCodeRoham2014"><strong>رهام</strong></a></td>
+      <td>تست‌کننده کیفیت بازی | QA Tester</td>
+    </tr>
+  </tbody>
+</table>
+
+</div>
 
 ---
 
@@ -29,7 +67,7 @@
 - مدیریت [مخزن پروژه در GitHub](https://GitHub.com/HP2000C/Call-of-Truth-Air-War)
 - توسعه قسمت کُد HTML
 - رفع باگ کردن تمامی کُدهای بازی، در صورت رفع باگ نشدن کُد توسط مسئول آن بخش
-- برخی کارهای جزئی دیگر
+- برخی کارهای دیگر...
 
 ### ▪︎ [**دانیال کمالی‌پور**](https://GitHub.com/DanialKamalipour):
 - نوشتن داستان بازی به‌صورت زیر:
@@ -58,12 +96,20 @@
 - اتصال فایل ++C به فایل HTML
 - نوشتن اصل و پایه بازی، از طریق فایل ++C، به صورتی که بازی فقط به صورت ویدیوهای کوتاه و متنی کنترل می‌شود، و نیا به هیچ جنگ خاصی نیست! فقط باید بازی را به‌صورت ویدیو و متن، و انتخاب‌های کاربر بسازید، با یک منوی خیلی ساده...
 
-### ▪︎ **محمدامین**:
+### ▪︎ [**محمدامین**](https://GitHub.com/immohamadamin2026-sudo):
 - توسعه قسمت کُد HTML
- ---
+
+### ▪︎ [**رهام**](https://GitHub.com/RCodeRoham2014):
+- تست دقیق و کارشناسانه بازی
+
+---
  
 ## 📧 پشتیبانی
 
 جهت ارتباط با پشتیبانی، برای پرسیدن سؤال و یا هر کار دیگر، و ارتباط با [**مدیریت تیم، حسین پ.**](https://GitHub.com/HP2000C) به Gmail زیر Email بزنید:
 
 - **Gmail** Address: **Hossein.P.2013.1391@gmail.com**
+
+---
+
+### [📄 English README](README-EN.md)
