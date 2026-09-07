@@ -12,7 +12,7 @@ The game consists of short video sequences, a narrative storyline, player-driven
 ---
 
 ## 🤝🏻 Developer Team
-<div align="right">
+<div align="left">
     
 <table dir="rtl">
   <thead>
@@ -46,7 +46,7 @@ The game consists of short video sequences, a narrative storyline, player-driven
     <tr>
       <td>5</td>
       <td><a href="https://GitHub.com/RCodeRoham2014"><strong>Roham</strong></a></td>
-      <td>Quality Tester | QA Tester</td>
+      <td>QA Tester</td>
     </tr>
   </tbody>
 </table>
